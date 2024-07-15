@@ -1,0 +1,5 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0,0 +1,2 @@
++.vs
++debug
+\ No newline at end of file
